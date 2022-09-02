@@ -1,0 +1,7 @@
+// vim: filetype=jsonc
+{
+    "pyright.enable": true,
+    "python.analysis.diagnosticSeverityOverrides": {
+        "reportWildcardImportFromLibrary": "none"
+    }
+}
